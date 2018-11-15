@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/BindNumericChartClientToPointCollection/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/BindNumericChartClientToPointCollection/MainWindow.xaml))
+<!-- default file list end -->
 # How to bind a numeric chart range control client to a point collection
 
 
